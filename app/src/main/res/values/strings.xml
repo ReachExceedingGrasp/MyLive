@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyLive</string>
+    <string name="facebook_app_id">266700953741112</string>
+    <string name="title_activity_live_view_map">Map</string>
+    <string name="bgcolor">@android:color/holo_blue_bright</string>
+    <string name="click_me">Click ME</string>
+    <string name="campus">Select Campus</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="campus_prompt">Select Campus</string>
+    <string name="placeholder_for_details">Placeholder for Details</string>
+    <string name="placeholder_for_clickable_links">Placeholder for clickable links</string>
+    <string name="user_info">User Info</string>
+    <string name="live">LIVE</string>
+    <string name="trending">Trending</string>
+    <string-array name="campus_array">
+        <item>SDSU</item>
+        <item>UCSD</item>
+        <item>USD</item>
+    </string-array>
+
+</resources>

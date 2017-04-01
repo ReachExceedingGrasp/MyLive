@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1036373839616",
+    "firebase_url": "https://mylive-16845.firebaseio.com",
+    "project_id": "mylive-16845",
+    "storage_bucket": "mylive-16845.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036373839616:android:38e42d2971780d43",
+        "android_client_info": {
+          "package_name": "com.mylive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036373839616-sn5811nhhodv75c5tebssogo2hdar5bf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mylive",
+            "certificate_hash": "0c1ba17ee0cbdb1423a9c1b4c298c486e0f7f36a"
+          }
+        },
+        {
+          "client_id": "1036373839616-bk152a3hq01na7p8f6q2e034ffch5pfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc4k9Ji-bkaly1_JF_a73Db4qIFqs_nhk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036373839616-bk152a3hq01na7p8f6q2e034ffch5pfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

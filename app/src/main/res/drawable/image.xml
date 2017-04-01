@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list android:id="@+id/layer_list"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/dynamic_image"
+        android:drawable="@drawable/no_image"/>
+    <item android:drawable="@drawable/circle"/>
+
+
+</layer-list>
